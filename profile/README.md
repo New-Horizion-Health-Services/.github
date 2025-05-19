@@ -15,7 +15,8 @@ _**Currently in development — launching soon!**_
 ## 🌐 Connect With Us
 
 - 🌍 Website: [newhorizonhealth.xyz](https://newhorizonhealth.xyz/) 
-- 💼 LinkedIn: [linkedin.com/company/newhorizonhealth](https://linkedin.com/company/newhorizonhealth)  
+- 💼 LinkedIn: [linkedin.com/company/newhorizonhealth](https://linkedin.com/company/newhorizonhealth)
+- 📧 Contact: [contact@newhorizonhealth.xyz](mailto:contact@newhorizonhealth.xyz)
 
 ---
 
