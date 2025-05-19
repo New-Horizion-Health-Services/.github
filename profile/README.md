@@ -14,8 +14,8 @@ _**Currently in development — launching soon!**_
 
 ## 🌐 Connect With Us
 
-- 🌍 Website: [https://nhhs.pages.dev](https://nhhs.pages.dev)  
-- 💼 LinkedIn: [https://linkedin.com/company/newhorizonhealth](https://linkedin.com/company/newhorizonhealth)  
+- 🌍 Website: [newhorizonhealth.xyz](https://newhorizonhealth.xyz/) 
+- 💼 LinkedIn: [linkedin.com/company/newhorizonhealth](https://linkedin.com/company/newhorizonhealth)  
 
 ---
 
